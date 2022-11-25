@@ -69,6 +69,6 @@ http://localhost:8080/detail
 
 
 FOR MERCHANT SERVICE
-Test cases has written to test the application
+Test cases have written to test the application
 
 
